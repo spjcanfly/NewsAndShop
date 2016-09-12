@@ -1,0 +1,42 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.1"
+
+    defaultConfig {
+        applicationId "com.example.spj.beijingnews"
+        minSdkVersion 15
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:23.0.1'
+    compile project(':SlidingMenu_library')
+    compile project(':xutils3')
+    compile files('libs/gson-2.2.1.jar')
+    compile project(':ViewPagerIndicator_library')
+    compile project(':RefreshListView')
+    compile project(':PullToRefresh_library')
+    compile files('libs/volley.jar')
+    compile files('libs/jpush-android-2.1.9.jar')
+    compile files('libs/glide-3.7.0.jar')
+    compile 'com.android.support:design:23.0.1'
+    compile project(':PhotoView_library')
+    compile files('libs/picasso-2.5.2.jar')
+    compile project(':MaterialRefreshLayout_library')
+    compile 'com.android.support:recyclerview-v7:23.0.1'
+    compile project(':okhttputils_library')
+    compile files('libs/alipaySdk-20160809.jar')
+}

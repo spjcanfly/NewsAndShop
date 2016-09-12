@@ -1,0 +1,1 @@
+include ':app', ':SlidingMenu_library', ':xutils3', ':ViewPagerIndicator_library', ':RefreshListView', ':PullToRefresh_library', ':PhotoView_library', ':MaterialRefreshLayout_library', ':okhttputils_library', ':NumberAddSubView'

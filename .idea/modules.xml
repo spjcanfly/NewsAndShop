@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BeijingNews.iml" filepath="$PROJECT_DIR$/BeijingNews.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" filepath="$PROJECT_DIR$/MaterialRefreshLayout_library/MaterialRefreshLayout_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumberAddSubView/NumberAddSubView.iml" filepath="$PROJECT_DIR$/NumberAddSubView/NumberAddSubView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" filepath="$PROJECT_DIR$/PhotoView_library/PhotoView_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" filepath="$PROJECT_DIR$/PullToRefresh_library/PullToRefresh_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefreshListView/RefreshListView.iml" filepath="$PROJECT_DIR$/RefreshListView/RefreshListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" filepath="$PROJECT_DIR$/SlidingMenu_library/SlidingMenu_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" filepath="$PROJECT_DIR$/ViewPagerIndicator_library/ViewPagerIndicator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils_library/okhttputils_library.iml" filepath="$PROJECT_DIR$/okhttputils_library/okhttputils_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutils3/xutils3.iml" filepath="$PROJECT_DIR$/xutils3/xutils3.iml" />
+    </modules>
+  </component>
+</project>

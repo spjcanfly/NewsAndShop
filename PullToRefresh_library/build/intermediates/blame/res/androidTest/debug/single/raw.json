@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\androidstudio-exersice\\BeijingNews\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\refreshing_sound.mp3",
+        "source": "E:\\androidstudio-exersice\\BeijingNews\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\raw\\refreshing_sound.mp3"
+    },
+    {
+        "merged": "E:\\androidstudio-exersice\\BeijingNews\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\pull_event.mp3",
+        "source": "E:\\androidstudio-exersice\\BeijingNews\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\raw\\pull_event.mp3"
+    },
+    {
+        "merged": "E:\\androidstudio-exersice\\BeijingNews\\PullToRefresh_library\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\reset_sound.mp3",
+        "source": "E:\\androidstudio-exersice\\BeijingNews\\PullToRefresh_library\\build\\intermediates\\bundles\\debug\\res\\raw\\reset_sound.mp3"
+    }
+]
